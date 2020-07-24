@@ -5,7 +5,7 @@ from dotenv import load_dotenv as dot
 
 Client = discord.client()
 token = ''
-mesage = "hi"
+mesage = "heyyyyyy"
 load_dotenv()
 
 
